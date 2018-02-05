@@ -43,7 +43,6 @@ should not be decremented (learning with history).
 
 The following figure determines the layout of the labyrinth:
 
-
 <p align="center">
   <img alt="VS Code in action" src="https://github.com/Caio-Sousa/AI-Inteligente-Agent-Maze/blob/master/Labyrithn-8x8.png?raw=true">
 </p>
@@ -55,3 +54,14 @@ Create an extra sensor and set its functionality for your "learning". If the age
 # Solution
 
 Implemented in C# windows forms using visual studio and microsoft Access for storing the learning experience.
+
+Solution Screenshots: 
+
+<p align="center">
+  <img alt="VS Code in action" src="https://github.com/Caio-Sousa/AI-Inteligente-Agent-Maze/blob/master/Program-Img1.png?raw=true">
+</p>
+
+
+<p align="center">
+  <img alt="VS Code in action" src="https://github.com/Caio-Sousa/AI-Inteligente-Agent-Maze/blob/master/Program-Img2.png?raw=true">
+</p>
