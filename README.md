@@ -1,6 +1,4 @@
-# AI-Inteligente-Agent-Maze
-
-# Goal
+# AI-Inteligente-Agent-Maze Goal
 
 A practical way to show the general concepts and definitions of an intelligent agent. Project simulates an agent should react in decision-making situations.
 
@@ -50,26 +48,10 @@ The following figure determines the layout of the labyrinth:
   <img alt="VS Code in action" src="https://github.com/Caio-Sousa/AI-Inteligente-Agent-Maze/blob/master/Labyrithn-8x8.png?raw=true">
 </p>
 
+# Learning 
 
+Create an extra sensor and set its functionality for your "learning". If the agent learns the right path he should not "die" at the same point as before the learnig occured.
 
+# Solution
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+Implemented in C# windows forms using visual studio and microsoft Access for storing the learning experience.
