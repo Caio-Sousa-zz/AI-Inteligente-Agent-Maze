@@ -1,0 +1,31 @@
+C:\Users\CAIO.SOUSA\Desktop\Dropbox\UCG\2013.1\Compiladores\EAD\Projeto de  Compiladores\ProjetoIA\ProjetoIA\bin\Debug\ProjetoIA.exe.config
+C:\Users\CAIO.SOUSA\Desktop\Dropbox\UCG\2013.1\Compiladores\EAD\Projeto de  Compiladores\ProjetoIA\ProjetoIA\obj\Debug\ProjetoIA.csprojResolveAssemblyReference.cache
+C:\Users\CAIO.SOUSA\Desktop\Dropbox\UCG\2013.1\Compiladores\EAD\Projeto de  Compiladores\ProjetoIA\ProjetoIA\obj\Debug\ProjetoIA.FrmInicial.resources
+C:\Users\CAIO.SOUSA\Desktop\Dropbox\UCG\2013.1\Compiladores\EAD\Projeto de  Compiladores\ProjetoIA\ProjetoIA\obj\Debug\ProjetoIA.Properties.Resources.resources
+C:\Users\CAIO.SOUSA\Desktop\Dropbox\UCG\2013.1\Compiladores\EAD\Projeto de  Compiladores\ProjetoIA\ProjetoIA\obj\Debug\ProjetoIA.csproj.GenerateResource.Cache
+C:\Users\CAIO.SOUSA\Desktop\Dropbox\UCG\2013.1\Compiladores\EAD\Projeto de  Compiladores\ProjetoIA\ProjetoIA\bin\Debug\ProjetoIA.exe
+C:\Users\CAIO.SOUSA\Desktop\Dropbox\UCG\2013.1\Compiladores\EAD\Projeto de  Compiladores\ProjetoIA\ProjetoIA\bin\Debug\ProjetoIA.pdb
+C:\Users\CAIO.SOUSA\Desktop\Dropbox\UCG\2013.1\Compiladores\EAD\Projeto de  Compiladores\ProjetoIA\ProjetoIA\obj\Debug\ProjetoIA.AISensorDeDirecao.resources
+C:\Users\CAIO.SOUSA\Desktop\Dropbox\UCG\2013.1\Compiladores\EAD\Projeto de  Compiladores\ProjetoIA\ProjetoIA\obj\Debug\ProjetoIA.exe
+C:\Users\CAIO.SOUSA\Desktop\Dropbox\UCG\2013.1\Compiladores\EAD\Projeto de  Compiladores\ProjetoIA\ProjetoIA\obj\Debug\ProjetoIA.pdb
+C:\Users\CAIO.SOUSA\Desktop\UCG\IA\TRABALHO 1\ProjetoIA\ProjetoIA\bin\Debug\ProjetoIA.exe.config
+C:\Users\CAIO.SOUSA\Desktop\UCG\IA\TRABALHO 1\ProjetoIA\ProjetoIA\obj\Debug\ProjetoIA.exe
+C:\Users\CAIO.SOUSA\Desktop\UCG\IA\TRABALHO 1\ProjetoIA\ProjetoIA\obj\Debug\ProjetoIA.pdb
+C:\Users\CAIO.SOUSA\Desktop\UCG\IA\TRABALHO 1\ProjetoIA\ProjetoIA\obj\Debug\ProjetoIA.csprojResolveAssemblyReference.cache
+C:\Users\CAIO.SOUSA\Desktop\UCG\IA\TRABALHO 1\ProjetoIA\ProjetoIA\obj\Debug\ProjetoIA.AISensorDeDirecao.resources
+C:\Users\CAIO.SOUSA\Desktop\UCG\IA\TRABALHO 1\ProjetoIA\ProjetoIA\obj\Debug\ProjetoIA.FrmInicial.resources
+C:\Users\CAIO.SOUSA\Desktop\UCG\IA\TRABALHO 1\ProjetoIA\ProjetoIA\obj\Debug\ProjetoIA.Properties.Resources.resources
+C:\Users\CAIO.SOUSA\Desktop\UCG\IA\TRABALHO 1\ProjetoIA\ProjetoIA\obj\Debug\ProjetoIA.csproj.GenerateResource.Cache
+C:\Users\CAIO.SOUSA\Desktop\UCG\IA\TRABALHO 1\ProjetoIA\ProjetoIA\bin\Debug\ProjetoIA.exe
+C:\Users\CAIO.SOUSA\Desktop\UCG\IA\TRABALHO 1\ProjetoIA\ProjetoIA\bin\Debug\ProjetoIA.pdb
+C:\Users\NOTE-TGM-10\Desktop\Pessoal\Study\IA\TRABALHO 1\ProjetoIA\ProjetoIA\bin\Debug\ProjetoIA.exe.config
+C:\Users\NOTE-TGM-10\Desktop\Pessoal\Study\IA\TRABALHO 1\ProjetoIA\ProjetoIA\bin\Debug\ProjetoIA.exe
+C:\Users\NOTE-TGM-10\Desktop\Pessoal\Study\IA\TRABALHO 1\ProjetoIA\ProjetoIA\bin\Debug\ProjetoIA.pdb
+C:\Users\NOTE-TGM-10\Desktop\Pessoal\Study\IA\TRABALHO 1\ProjetoIA\ProjetoIA\obj\Debug\ProjetoIA.csprojResolveAssemblyReference.cache
+C:\Users\NOTE-TGM-10\Desktop\Pessoal\Study\IA\TRABALHO 1\ProjetoIA\ProjetoIA\obj\Debug\ProjetoIA.AISensorDeDirecao.resources
+C:\Users\NOTE-TGM-10\Desktop\Pessoal\Study\IA\TRABALHO 1\ProjetoIA\ProjetoIA\obj\Debug\ProjetoIA.Properties.Resources.resources
+C:\Users\NOTE-TGM-10\Desktop\Pessoal\Study\IA\TRABALHO 1\ProjetoIA\ProjetoIA\obj\Debug\ProjetoIA.csproj.GenerateResource.Cache
+C:\Users\NOTE-TGM-10\Desktop\Pessoal\Study\IA\TRABALHO 1\ProjetoIA\ProjetoIA\obj\Debug\ProjetoIA.csproj.CoreCompileInputs.cache
+C:\Users\NOTE-TGM-10\Desktop\Pessoal\Study\IA\TRABALHO 1\ProjetoIA\ProjetoIA\obj\Debug\ProjetoIA.exe
+C:\Users\NOTE-TGM-10\Desktop\Pessoal\Study\IA\TRABALHO 1\ProjetoIA\ProjetoIA\obj\Debug\ProjetoIA.pdb
+C:\Users\NOTE-TGM-10\Desktop\Pessoal\Study\IA\TRABALHO 1\ProjetoIA\ProjetoIA\bin\Debug\Base\projectBase.mdb
