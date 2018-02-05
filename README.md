@@ -23,6 +23,51 @@ The goal is to map the automaton of the labyrinth, taking into account the follo
 2. In decision-making, in order to choose one of the paths to be taken, the IA should start with N (North) and keep the choice clockwise, if the initial choice fails. The IA should repeat the process until find a valid direction.
 
 # Sensor
+The IA features a steering sensor:
+* N (north)
+* E (East)
+* S (South)
+* W (West)
+
+First the IA will always start with north. If he fails, he passes the choice to the East, South or West (clockwise), in that sequence, until a valid choice is done.
+
+*Death sensor:
+
+Detects if the IA has died and should return to the previous state with a valid output, that is, with at least one alternative to choose another path not yet performed.
+
+# Environment
+
+There is an 8x8 labyrinth with an exit and an entrance. 
+When the IA is placed in the entrance of this environment, it should try to leave without the number of lives reaches 0.
+The IA has in the beginning 2 lives that must be decremented every time it find a monster.
+After leaving the maze once, the IA should be again and try to leave once more. However, in the second attempt, the number of lives
+should not be decremented (learning with history).
+
+The following figure determines the layout of the labyrinth:
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
