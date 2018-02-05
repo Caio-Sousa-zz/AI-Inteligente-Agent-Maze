@@ -73,4 +73,3 @@ The following figure determines the layout of the labyrinth:
 
 
 
-
